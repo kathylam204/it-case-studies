@@ -18,4 +18,4 @@ User, Daniel Howell, needs Adobe Acrobat Pro installed for the Finance Departmen
 The finance department has Adobe Acrobat Pro installed on all computers.
 
 ## Reflection
-- Always check if the company has extra licenses.
+Always check if the company has extra licenses.

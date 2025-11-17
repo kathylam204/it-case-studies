@@ -1,4 +1,4 @@
-# Case Study: Windows OS Update (System Software, Versions and Application Software Compatibility)
+# Case Study: Windows OS Update
 
 ## Summary
 The user's employers want him to update his Windows 7 OS to Windows 10 or 11.

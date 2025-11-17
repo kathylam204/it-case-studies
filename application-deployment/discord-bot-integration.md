@@ -1,4 +1,4 @@
-# Case Study: Discord Bot Integration (Application Deployment / API Integration)
+# Case Study: Discord Bot Integration
 ## Summary
 Integrated two Discord bots into a server to enhance member experience.
 ## Context

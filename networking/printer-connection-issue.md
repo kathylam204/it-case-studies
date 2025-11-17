@@ -4,9 +4,9 @@
 Customer could not connect a wireless printer to Wi-Fi after one year of normal use.
 
 ## Context
-Printer: HP DeskJet 2855e All-in-One Inkjet Printer model (wireless)
-Connection: Home Wi-Fi network 
-Support type: Phone call
+- Printer: HP DeskJet 2855e All-in-One Inkjet Printer model (wireless)
+- Connection: Home Wi-Fi network 
+- Support type: Phone call
 
 ## Actions Taken
 - Confirmed other devices connected successfully to Wi-Fi.

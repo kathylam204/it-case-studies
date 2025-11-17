@@ -1,4 +1,5 @@
 # Case Study: Laptop Bloatware Removal
+## Summary
 User reported that the laptop was running slowly with little available space.
 ## Context
 Device: Asus Laptop

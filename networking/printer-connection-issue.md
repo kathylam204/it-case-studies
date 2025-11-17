@@ -1,4 +1,4 @@
-# Case Study: Printer Wi-Fi Connectivity Issue (Computer Peripherals and Connectivity)
+# Case Study: Printer Wi-Fi Connectivity Issue
 
 ## Summary
 Customer could not connect a wireless printer to Wi-Fi after one year of normal use.
